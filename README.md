@@ -6,12 +6,7 @@ This project is a comprehensive educational platform designed to teach **Physica
 
 ---
 
-## 🚀 Live Demo
 
--   **Frontend (Course Site):** [https://DevAbdullah90.github.io/Spec-Driven-Development-Hackathon-I/](https://DevAbdullah90.github.io/Spec-Driven-Development-Hackathon-I/)
--   **Backend (API Docs):** [https://abdullah9873-physical-ai-backend.hf.space/docs](https://abdullah9873-physical-ai-backend.hf.space/docs)
-
----
 
 ## 🏗️ System Architecture
 
